@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- role: Technical Lead
+  # duration: 2018 &mdash; 2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul><li>Emaar One - Re-writing the app in React-native app for residents of Emaar group properties.</li><li>Mintifi - React-native sales agent app used by the internal sales agents. Playstore Link</li><li>Find Rare Whisky - React-native mobile application to purchase liquor. Playstore Link Appstore link</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Frontend developer
+- role: Frontend developer 
+  description: <ul><li> Frontrunner PWA - Working to develop a Magento PWA theme in ReactJS.</li><li> Tapinfluence (Influencer Search) - Worked on building reusable React components and created REST API endpoints. (ReactJS, Redux, Immutable JS, Docker)</li></ul>
+
+- role: Backend developer
+  description: <ul><li>Startpage Blog - Created a program to generate static web pages every time a new article was published on dynamic website. Used sqlite3 for providing search functionality within static pages. Used reverse proxy to serve the content from single single server. (PHP, MySQL, sqlite3)</li><li>Direct Request Submission - Implemented adding notes and attachments in internal work management tool using emails. (PHP)</li><li>NYPD Website - Designed a system to parse a tagged Adobe Illustrator file and create a corresponding WordPress website from it.</li><li>Support and Forum websites for Startpage - Maintain kayako based and Vbulletin based websites for client.</li></ul>
+
+#Backend developer
