@@ -5,13 +5,13 @@
 - role: Technical Lead
   # duration: 2018 &mdash; 2019
   # url: "#"
-  description: <ul><li>Emaar One - Re-writing the app in React-native app for residents of Emaar group properties.</li><li>Mintifi - React-native sales agent app used by the internal sales agents. Playstore Link</li><li>Find Rare Whisky - React-native mobile application to purchase liquor. Playstore Link Appstore link</li></ul>
+  description: <ul><li>Niyo Recharge App&#58; Built a utility service recharge microservice for NIYO (NodeJS and ReactJS)</li><li>Emaar One&#58; Re-wrote the app in React-Native app for residents of Emaar group properties.</li><li>Mintifi&#58; React-Native sales agent app used by the internal sales agents. <a href="https://play.google.com/store/apps/details?id=com.mintifi&hl=en_IN">Playstore Link</a></li><li>Find Rare Whisky&#58; React-Native mobile application to purchase liquor. <a href="https://play.google.com/store/apps/details?id=com.frw&hl=en_IN">Playstore Link</a> <a href="https://apps.apple.com/in/app/findrarewhisky-com-app/id1472701442">Appstore link</a></li></ul>
 
 # Frontend developer
 - role: Frontend developer 
-  description: <ul><li> Frontrunner PWA - Working to develop a Magento PWA theme in ReactJS.</li><li> Tapinfluence (Influencer Search) - Worked on building reusable React components and created REST API endpoints. (ReactJS, Redux, Immutable JS, Docker)</li></ul>
+  description: <ul><li> Frontrunner PWA&#58; Working to develop a Magento PWA theme in ReactJS.</li><li> Tapinfluence (Influencer Search)&#58; Worked on building reusable React components and created REST API endpoints. (ReactJS, Redux, Immutable JS, Docker)</li></ul>
 
 - role: Backend developer
-  description: <ul><li>Startpage Blog - Created a program to generate static web pages every time a new article was published on dynamic website. Used sqlite3 for providing search functionality within static pages. Used reverse proxy to serve the content from single single server. (PHP, MySQL, sqlite3)</li><li>Direct Request Submission - Implemented adding notes and attachments in internal work management tool using emails. (PHP)</li><li>NYPD Website - Designed a system to parse a tagged Adobe Illustrator file and create a corresponding WordPress website from it.</li><li>Support and Forum websites for Startpage - Maintain kayako based and Vbulletin based websites for client.</li></ul>
+  description: <ul><li>Startpage Blog&#58; Created a program to generate static web pages every time a new article was published on dynamic website. Used sqlite3 for providing search functionality within static pages. Used reverse proxy to serve the content from single single server. (PHP, MySQL, sqlite3)</li><li>Direct Request Submission&#58; Implemented adding notes and attachments in internal work management tool using emails. (PHP)</li><li>NYPD Website - Designed a system to parse a tagged Adobe Illustrator file and create a corresponding WordPress website from it.</li><li>Support and Forum websites for Startpage&#58; Maintain kayako based and Vbulletin based websites for client.</li></ul>
 
 #Backend developer
